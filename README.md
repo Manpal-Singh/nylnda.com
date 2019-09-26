@@ -25,25 +25,25 @@ Preview
 
 **Home View**
 
-![Home Page View1](https://imgur.com/qz8ggjE.png)
+![Home Page View](https://imgur.com/qz8ggjE.png)
 
-**Home View2**
+**About Us**
 
-![Home Page View2](https://imgur.com/ypuhAHZ.png)
+![About Us1](https://imgur.com/ypuhAHZ.png)
 
-**Register**
+**About Us**
 
-![Sign up Modal view](https://imgur.com/uKwFnTi.png)
+![About Us2](https://imgur.com/uKwFnTi.png)
 
-**Login**
+**Policy**
 
 ![Login Modal View](https://imgur.com/0Ss4J2t.png)
 
-**Bottom View**
+**Terms of Policy**
 
 ![Bottom View](https://imgur.com/Z1HQmI2.png)
 
-**Firebase**
+**Social Platform**
 
 ![Users View](https://imgur.com/lktgKcF.png)
 
